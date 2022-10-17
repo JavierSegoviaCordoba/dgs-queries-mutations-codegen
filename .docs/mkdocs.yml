@@ -1,10 +1,10 @@
-site_name: '"{{ name }}"'
-site_description: '"{{ description }}"'
+site_name: 'DGS Queries and Mutations codegen'
+site_description: 'Gradle plugin to generate Netflix DGS Queries and Mutations for GraphQL'
 site_author: 'Javier Segovia Córdoba'
 remote_branch: gh-pages
 
-repo_name: '"{{ repo }}"'
-repo_url: 'https://github.com/JavierSegoviaCordoba/"{{ repo }}"'
+repo_name: 'dgs-queries-mutations-codegen'
+repo_url: 'https://github.com/JavierSegoviaCordoba/dgs-queries-mutations-codegen'
 
 copyright: 'Copyright &copy; 2021 Javier Segovia Córdoba'
 
